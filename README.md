@@ -1,0 +1,1 @@
+pip install speechrecognition pyaudio pocketsphinx setuptools pyttsx3 openai
